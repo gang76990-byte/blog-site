@@ -1,4 +1,4 @@
-import { h, d as defineComponent, o as openBlock, c as createElementBlock, a as createVNode, u as unref, _ as _export_sfc, b as createBaseVNode, e as createTextVNode, F as Fragment, r as renderList, n as normalizeClass, t as toDisplayString, w as withBase, f as computed, g as useData, i as useRoute, j as watch, k as onMounted, l as onBeforeUnmount, m as withCtx, T as Transition, p as ref, q as nextTick, s as resolveComponent, v as createBlock, x as createCommentVNode } from "./framework.KpO8PD4X.js";
+import { h, d as defineComponent, o as openBlock, c as createElementBlock, a as createVNode, u as unref, _ as _export_sfc, b as createBaseVNode, e as createTextVNode, F as Fragment, r as renderList, n as normalizeClass, t as toDisplayString, w as withBase, f as computed, g as useData, i as useRoute, j as watch, k as onMounted, l as onBeforeUnmount, m as withCtx, T as Transition, p as ref, q as nextTick, s as resolveComponent, v as createBlock, x as createCommentVNode } from "./framework.BOPcEwAz.js";
 const hasA11yProp = (props) => {
   for (const prop in props) {
     if (prop.startsWith("aria-") || prop === "role" || prop === "title") {

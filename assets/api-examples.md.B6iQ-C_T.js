@@ -1,4 +1,4 @@
-import { g as useData, o as openBlock, c as createElementBlock, N as createStaticVNode, b as createBaseVNode, t as toDisplayString, u as unref, e as createTextVNode } from "./chunks/framework.KpO8PD4X.js";
+import { g as useData, o as openBlock, c as createElementBlock, N as createStaticVNode, b as createBaseVNode, t as toDisplayString, u as unref, e as createTextVNode } from "./chunks/framework.BOPcEwAz.js";
 const __pageData = JSON.parse('{"title":"VitePress 运行时 API","description":"","frontmatter":{"title":"VitePress 运行时 API","outline":"deep","readingTime":"3 分钟"},"headers":[],"relativePath":"api-examples.md","filePath":"api-examples.md"}');
 const __default__ = { name: "api-examples.md" };
 const _sfc_main = /* @__PURE__ */ Object.assign(__default__, {

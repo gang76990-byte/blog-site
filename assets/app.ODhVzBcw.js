@@ -1,5 +1,5 @@
-import { R as RawTheme } from "./chunks/theme.B3FBnuFM.js";
-import { y as inBrowser, z as useUpdateHead, R as RouterSymbol, A as initData, B as dataSymbol, C as Content, D as ClientOnly, E as siteDataRef, G as createRouter, H as pathToFile, I as createSSRApp, d as defineComponent, g as useData, k as onMounted, J as watchEffect, K as usePrefetch, L as useCopyCode, M as useCodeGroups, h } from "./chunks/framework.KpO8PD4X.js";
+import { R as RawTheme } from "./chunks/theme.6oSNK0Gr.js";
+import { y as inBrowser, z as useUpdateHead, R as RouterSymbol, A as initData, B as dataSymbol, C as Content, D as ClientOnly, E as siteDataRef, G as createRouter, H as pathToFile, I as createSSRApp, d as defineComponent, g as useData, k as onMounted, J as watchEffect, K as usePrefetch, L as useCopyCode, M as useCodeGroups, h } from "./chunks/framework.BOPcEwAz.js";
 function resolveThemeExtends(theme) {
   if (theme.extends) {
     const base = resolveThemeExtends(theme.extends);

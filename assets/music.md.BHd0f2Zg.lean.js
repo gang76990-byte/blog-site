@@ -1,4 +1,4 @@
-import { _ as _export_sfc, s as resolveComponent, o as openBlock, c as createElementBlock, a as createVNode } from "./chunks/framework.KpO8PD4X.js";
+import { _ as _export_sfc, s as resolveComponent, o as openBlock, c as createElementBlock, a as createVNode } from "./chunks/framework.BOPcEwAz.js";
 const __pageData = JSON.parse('{"title":"音乐","description":"","frontmatter":{"title":"音乐","kicker":"经典永流传。","pageClass":"music-page"},"headers":[],"relativePath":"music.md","filePath":"music.md"}');
 const _sfc_main = { name: "music.md" };
 function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
