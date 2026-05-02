@@ -631,7 +631,7 @@ const bookshelf = [
     title: "黑客与画家",
     author: "保罗·格雷厄姆",
     summary: "很多年前写的，今天再看创业、技术品味和行业变化，还是有种被提前说中的感觉。",
-    cover: "/books/hackers-painters.jpg",
+    cover: withBase("/books/hackers-painters.jpg"),
     coverAlt: "《黑客与画家》书封",
     progress: "读至一半"
   },
@@ -639,7 +639,7 @@ const bookshelf = [
     title: "活着",
     author: "余华",
     summary: "大学熬夜看完的，写的好，但剧情很悲惨，不想看第二遍",
-    cover: "/books/to-live.jpg",
+    cover: withBase("/books/to-live.jpg"),
     coverAlt: "《活着》书封",
     progress: "读完"
   },
@@ -647,7 +647,7 @@ const bookshelf = [
     title: "未来世界的幸存者",
     author: "阮一峰",
     summary: "十年前聊技术变局和普通人的处境，现在回头看 AI、自动化这些趋势，准得有点吓人。",
-    cover: "/books/survivor.jpg",
+    cover: withBase("/books/survivor.jpg"),
     coverAlt: "《未来世界的幸存者》书封",
     progress: "读至大半"
   },
@@ -655,7 +655,7 @@ const bookshelf = [
     title: "前方的路",
     author: "阮一峰",
     summary: "也是很多年前的判断，放到今天看技术、职业和个人选择，像在提前给后来的人指路。",
-    cover: "/books/road-ahead.jpg",
+    cover: withBase("/books/road-ahead.jpg"),
     coverAlt: "《前方的路》书封",
     progress: "读至一半"
   },
@@ -663,7 +663,7 @@ const bookshelf = [
     title: "Vibe Coding：AI编程时代的认知重构",
     author: "张昕东",
     summary: "不凑热闹，从理性角度看待AI编程的发展史，但后面的章节有点乏味",
-    cover: "/books/vibe-coding.jpg",
+    cover: withBase("/books/vibe-coding.jpg"),
     coverAlt: "《Vibe Coding：AI编程时代的认知重构》书封",
     progress: "读至一半"
   }
